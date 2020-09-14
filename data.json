@@ -1,0 +1,53 @@
+[{
+  "ID" : 1,
+  "Device_name" : "Ankara Sunucu 1",
+  "Device_ip" : "10.11.22.33",
+  "Device_port" : "1122",
+  "Device_date" : "05.10.2019",
+  "Status" : "Normal",
+  
+  "Category" : {
+      "CategoryID" : 1,
+      "CategoryName" : "CPU USAGE",
+      "CategoryOid" : "1.2.2.3.4.5.6.6",
+      "CategoryValue" : "60%",
+      "CategoryDate" : "05.10.2019",
+      "CategoryStatus" : "Normal"
+  }
+  
+},
+{
+  "ID" : 2,
+  "Device_name" : "Ankara Sunucu 1",
+  "Device_ip" : "10.11.22.33",
+  "Device_port" : "1122",
+  "Device_date" : "05.10.2019",
+  "Status" : "Normal",
+  
+  "Category" : {
+      "CategoryID" : 1,
+      "CategoryName" : "CPU USAGE",
+      "CategoryOid" : "1.2.2.3.4.5.6.6",
+      "CategoryValue" : "60%",
+      "CategoryDate" : "05.10.2019",
+      "CategoryStatus" : "Normal"
+  }
+},
+{
+  "ID" : 3,
+  "Device_name" : "Ankara Sunucu 1",
+  "Device_ip" : "10.11.22.33",
+  "Device_port" : "1122",
+  "Device_date" : "05.10.2019",
+  "Status" : "Normal",
+  
+  "Category" : {
+      "CategoryID" : 1,
+      "CategoryName" : "CPU USAGE",
+      "CategoryOid" : "1.2.2.3.4.5.6.6",
+      "CategoryValue" : "60%",
+      "CategoryDate" : "05.10.2019",
+      "CategoryStatus" : "Normal"
+  }
+}
+]
